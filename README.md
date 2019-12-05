@@ -2,5 +2,6 @@
 
 ## Steps to start the server:
 ```
+* npm i
 * npm start
 ```
